@@ -1,5 +1,9 @@
 import pygame #Pygame is a module used for writing video games
 
+""""
+credit goes to Simpson College Computer Science
+""""
+
 #define all the colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
